@@ -1,6 +1,3 @@
->?php
-echo "Olá Mundo123";
-
-
-echo "Olá HCffffffffODE";
-?>
+<?php
+echo "Hello word!";
+ 
